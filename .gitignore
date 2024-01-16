@@ -1,0 +1,7 @@
+.vs/
+.vscode/
+.git
+.DS_Store
+out/
+build/
+ext/project_path.hpp
