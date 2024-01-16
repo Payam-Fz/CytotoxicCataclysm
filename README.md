@@ -1,15 +1,24 @@
-![Banner](https://img.itch.zone/aW1nLzE0NDM4NDQ2LnBuZw==/original/mStGKY.png)
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sydXG4Lw2Pg" frameborder="0" allowfullscreen></iframe>
 
-<iframe frameborder="0" src="https://itch.io/embed/2432398" width="552" height="167"><a href="https://cytotoxiccataclysm.itch.io/cytotoxic-cataclysm">Cytotoxic Cataclysm by UBC Students</a></iframe>
+<p align="center">
+  <img src="https://img.itch.zone/aW1nLzE0NDM4NDQ2LnBuZw==/original/mStGKY.png" alt="Banner" width="800"/>
+  <br />
+<!--   <a href="https://www.youtube.com/watch?v=sydXG4Lw2Pg">
+    <img src="https://i.imgur.com/FFML8MH.png" alt="Trailer" width="400"/>
+  </a>
+  <br /> -->
+  <a href="https://cytotoxiccataclysm.itch.io/cytotoxic-cataclysm">
+    <img src="https://i.imgur.com/vsayMaU.png" alt="Download" width="500"/>
+  </a>
+</p>
+
 
 ## Summary
-This game is an action top-down shooter in the narrative of an immunity cell. Microbes have infected the body and kidnapped his friend. The immunity cell will fight furiously against the infection to find and save his friend. Little does he know what he will encounter during his journey... .
+This game is an action top-down shooter in the narrative of an immunity cell. Microbes have infected the body and kidnapped his friend. The immunity cell will fight furiously against the infection to find and save his friend. Little does he know what he will encounter during his journey...
 
 The story of this rescue mission unfolds as the player proceeds in battle against various AI powered enemies and unlocks new abilities. Enjoy engaging gameplay, smooth motions, and intriguing visuals that will take players on an immersive adventure. In addition to mouse and keyboard, you can play this game with a PlayStation controller for some extra fun!
 
 ## Developers
-**Video Game Programming Term Project - Team 3**
+**Team 3 - Video Game Programming Term Project**
 - Keigo Lee
 - Nick Zhang
 - Nitahi Escolar Bach
